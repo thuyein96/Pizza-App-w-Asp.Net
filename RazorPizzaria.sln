@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPizzaria", "RazorPizzaria\RazorPizzaria.csproj", "{DFB7822C-1235-4419-B45E-E332CE0C6F89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB7822C-1235-4419-B45E-E332CE0C6F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB7822C-1235-4419-B45E-E332CE0C6F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB7822C-1235-4419-B45E-E332CE0C6F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB7822C-1235-4419-B45E-E332CE0C6F89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9FF941F-1E4E-4E39-973A-3C6FC23A8F0A}
+	EndGlobalSection
+EndGlobal
